@@ -1,10 +1,10 @@
-# Build large language model (LLM) apps with Python,ChatGPT, and other LLMs
+# Build large language model (LLM) apps with Python, ChatGPT, and other LLMs
 
 * Exploring Large Language Models (LLMs): Engines of Transformation
 
 * Delving into Deep Learning: Where Unstructured Data Comes Alive
 
-* The Rise of GPT-4 and Beyond: Carving Pathways in AI
+* The Rise of GPT-4 and Beyond Carving Pathways in AI
 
 * Understanding the Impact: LLMs and Their Implications on Businesses, Societies, and Individuals
 
