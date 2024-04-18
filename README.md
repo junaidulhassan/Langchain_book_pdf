@@ -18,7 +18,7 @@
 
 * Audience Engagement: Who Can Benefit from this Book?
 
-* A Resource for All: Catering to Beginners and Seasoned Developers Alike
+* A Resource for All: Catering to Beginners and Seasoned Developers Like
 
 * Code-Enriched Learning: Making Complex Concepts Accessible
 
